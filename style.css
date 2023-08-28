@@ -1,0 +1,62 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+#container{
+    text-align: center;
+    width: 326px;
+    height: 49px;
+    margin: auto;
+
+}
+
+#profile img{
+border: 3px solid #BB99DD;
+border-radius: 50%;
+padding: 4px;
+margin-top: 200px;
+}
+
+#instagram{
+    font-size: normal;
+    color: #BB99DD;
+    margin-bottom: 33px;
+    margin-top: 15px;
+}
+
+
+#links p{
+    border: 2px solid #BB99DD;
+    font-size: normal;
+    width: 326px;
+    height: 49px;
+    border-radius: 5px;     
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#links p:hover{
+    background-color: #ece3f5;
+    transition: 0.2s;
+}
+
+a{
+    color: #BB99DD;
+    text-decoration: none;
+    font-weight: bold;   
+}
+
+#footer{
+    margin-top: 68px;
+    display: flex;
+    gap: 29px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
